@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishitaxxx
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I know python and i'm currently learning C
 - 💞️ I’m looking to collaborate on nothing in particular
 - 📫 How to reach me ... msg me?
 <!---
